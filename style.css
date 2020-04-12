@@ -4,11 +4,7 @@
 .orange-bg{
     background-color:#fceae8 ;
     border-radius: 10px;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    -ms-border-radius: 10px;
-    -o-border-radius: 10px;
-}
+    
 .carousel-item{
     padding: 20px 40px ;
 }
@@ -47,4 +43,21 @@
 }
 .catagories img{
     width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
 }
